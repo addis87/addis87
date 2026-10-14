@@ -1,4 +1,4 @@
-# Addishiwot Teshome | Public Health Data Analytics & Informatics Specialist
+# Public Health Data Analytics & Health Information Systems Specialist
 
 ## Professional Overview
 I am an MPH Epidemiologist specializing in building end-to-end data pipelines for international public health interventions. My work bridges the gap between field-level healthcare data architectures and strategic donor performance reporting.
