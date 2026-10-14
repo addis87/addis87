@@ -26,7 +26,7 @@ I am an MPH Epidemiologist specializing in building end-to-end data pipelines fo
 * **Tech:** XLSForm Syntax, KoboToolbox, ODK, R.
 
 ### [3. Strategic M&E Performance & Interactive Donor Dashboard](https://github.com)
-* **Pipeline Nodes:** Visualize ➔ M&E Delivery
+
 * **Description:** A production-ready Power BI dashboard connected directly to a simulated multi-country healthcare project database. The visuals are dynamically mapped to a Logical Framework (LogFrame) and an Indicator Tracking Table (ITT) to display baseline variances and target thresholds.
-* **Tech:** Power BI Desktop, DAX Expressions, Star Schema Data Modeling.
+* **Tech:** Power BI Desktop, Expressions, Star Schema Data Modeling.
 * 
